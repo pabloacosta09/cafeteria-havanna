@@ -1,0 +1,17 @@
+/* ----- ----- FOOTER ----- ----- */
+footer {
+    background-color: #281a0c;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer p {
+    margin: 0;
+}
+
+.footer .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
